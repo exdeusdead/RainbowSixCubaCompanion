@@ -1,2 +1,3 @@
 # RainbowSixCubaCompanion
-Official browser extension for Rainbow Six CUBA. Synchronizes public Rainbow Six Siege statistics from Tracker Network with the Rainbow Six CUBA competitive ecosystem.
+Official browser extension for the Rainbow Six CUBA ecosystem. Connects public Rainbow Six Siege statistics, community profiles, future leaderboards and competitive tools with the Rainbow Six CUBA platform.
+
